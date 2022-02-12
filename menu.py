@@ -1,5 +1,3 @@
-print('RU: 3847630')
-
 import random #importando a biblioteca pro voucher
 
 dados = {'voucher':[random.randint(100,400)], 'nome':[], 'email':[], 'telefone':[], 'curso':[]} #dicionário com listas
